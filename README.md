@@ -7,6 +7,7 @@ https://elmas3.github.io/mao-seminar/
  A
  B
  C
+ D
 # ディレクトリ構成
 ```
 seminar/
